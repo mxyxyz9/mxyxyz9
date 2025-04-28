@@ -1,57 +1,55 @@
 <!--
-  F1 x Gen Z Vibes GitHub Profile README
-  Ultra-modern, drip-infused, emoji-powered 
+  F1 x Gen Z Meets iOS & AWS README
+  Ultra-modern vibes with clickable tech buttons 🚀
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Speed FX" width="100%"/>
+  <!-- F1 meme GIF -->
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="F1 Meme" width="100%"/>
 </p>
 
-<h1 align="center">👋 Yo yo, I’m <Your Name> — Chief Racing Geek 🏎️💨</h1>
-<p align="center">Full-stack dev · Data wiz · Meme connoisseur<br>Living life 200mph on & off track</p>
+<h1 align="center">👋 Yo yo, I’m <Your Name> — iOS Racer & AWS Cloud Ace 🏎️☁️</h1>
+<p align="center">iOS App Dev · AWS Certified Cloud Practitioner · Meme Enthusiast<br>Living 200mph on & off track</p>
 
 ---
 
 ## 🔥 Quick Deets
 
-- 🎯 **Current Mission:** Building lit real-time F1 telemetry dashboards + AI hype models
-- 📚 **Learning:** C++, Rust, and sick ML algos to outsmart pit crews
-- 🤝 **Collab:** Hit me up for collabs on data viz, simulation, or meme-driven analytics
-- 💬 **Ask me:** Anything from Python hacks to the latest Verstappen drip
+- 🎯 **Current Mission:** Crafting slick iOS experiences with SwiftUI + turbocharged AWS backends
+- 📚 **Cert:** AWS Certified Cloud Practitioner (Associate)
+- 🛠️ **Toolbox Collab:** Hit me up for SwiftUI, AWS Amplify, Lambda, or CoreData gigs
+- 💬 **Ask me:** Anything from Swift tips to race strategy hot takes
 
 ---
 
-## 🚀 Flex Stack
+## 🚀 Tech Pit Crew
 
-| 🎮 **Coding Languages**    | 🧠 **Data & AI**           | 🌐 **Web & APIs**         | 🛠️ **DevOps & Tools**      |
-| -------------------------- | -------------------------- | ------------------------- | -------------------------- |
-| ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-2088FF?logo=github%20actions) |
+<div align="center">
+  <a href="https://swift.org" target="_blank"><img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&style=for-the-badge" alt="Swift"/></a>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/-SwiftUI-007AFF?logo=swift&style=for-the-badge" alt="SwiftUI"/></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&style=for-the-badge" alt="Xcode"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&style=for-the-badge" alt="AWS"/></a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://img.shields.io/badge/-Amplify-FF9900?logo=amazonamplify&style=for-the-badge" alt="AWS Amplify"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&style=for-the-badge" alt="Firebase"/></a>
+</div>
 
----
-
-## 🌟 GitHub Hype Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=react&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=react&hide_border=true" height="140"/>
-</p>
-
----
 
 ## 🎉 Podium Projects
 
 <div align="center">
-  <a href="https://github.com/<your-username>/TelemetryDrip" align="left">
-    <h4>🏁 TelemetryDrip</h4>
-    <p>Real-time F1 graphing with Plotly + hype ✨</p>
+  <a href="https://github.com/<your-username>/ShelfLife" target="_blank">
+    <img src="https://img.shields.io/badge/-ShelfLife-FFCA28?style=for-the-badge&logo=googlestacked&logoColor=white" alt="ShelfLife"/>
+    <p>🍽️ AI-powered pantry & expiry tracker (SwiftUI + CoreData + Yummly API)</p>
   </a>
-  <a href="https://github.com/<your-username>/RaceAI" align="left">
-    <h4>🏆 RaceAI</h4>
-    <p>ML-powered race outcome flex 💪</p>
+
+  <a href="https://github.com/<your-username>/SecureChatApp" target="_blank">
+    <img src="https://img.shields.io/badge/-SecureChatApp-007AFF?style=for-the-badge&logo=signal&logoColor=white" alt="SecureChatApp"/>
+    <p>🔐 Private messaging with XMPP & PGP encryption (Swift + SwiftUI)</p>
   </a>
-  <a href="https://github.com/<your-username>/RaceDayPeek" align="left">
-    <h4>🔮 RaceDayPeek</h4>
-    <p>Interactive F1 calendar + live updates 🔥</p>
+
+  <a href="https://github.com/<your-username>/PortfolioWebsite" target="_blank">
+    <img src="https://img.shields.io/badge/-PortfolioWebsite-000000?style=for-the-badge&logo=github" alt="PortfolioWebsite"/>
+    <p>🌐 Minimal dark-mode bento layout showcasing my iOS & AWS projects</p>
   </a>
 </div>
 
@@ -59,15 +57,12 @@
 
 ## 🌐 Where to Find Me
 
-<p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" height="30"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Pro-0A66C2?logo=linkedin" height="30"></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-@yourhandle-E4405F?logo=instagram" height="30"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-✉️-D14836?logo=gmail" height="30"></a>
-</p>
+<div align="center">
+  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40yourhandle-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-✉️-D14836?logo=gmail&style=for-the-badge" alt="Email"/></a>
+</div>
 
 ---
 
-<div align="center">
-  <small>“Life’s too short to drive boring code.” 🚦</small>
-</div>
+<p align="center"><small>“Life’s too short to drive boring code.” 🚦</small></p>
