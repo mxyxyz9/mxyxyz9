@@ -10,8 +10,8 @@
 javascriptconst rushil = {
   interests: ["Coding", "Open Source", "Learning New Tech"],
   technologies: {
-    frontEnd: ["HTML", "CSS", "JavaScript", "React"],
-    backEnd: ["Node.js", "Express"],
+    frontEnd: ["SWIFT", "SWIFTUI", "JavaScript", "React"],
+    backEnd: ["SWIFT DATA", "Express"],
     databases: ["MongoDB", "PostgreSQL"],
     tools: ["Git", "GitHub", "VS Code"]
   },
