@@ -93,20 +93,15 @@
 
 ---
 
-## 🎓 Certifications
+## 🌐 Digital Presence
 
-- [📱 iOS App Development – Curtin University](https://courses.edx.org/certificates/fd66e2c48e4a40919abeedb33930c8ba)
-- [🎨 iOS Design Bootcamp – Udemy](https://www.udemy.com/certificate/UC-fb8c421f-a4d3-4911-abaa-6ebb5b31ad23/)
+<div align="center">
+  
+  [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://linkedin.com/in/pala-rushil-77679925b)
+  [<img src="https://img.icons8.com/color/48/000000/apple-app-store--v3.png"/>](https://apps.apple.com/developer/rushil-pala/id123456789)
+  [<img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/>](https://medium.com/@rushil)
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/mxyxyz9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pala-rushil-77679925b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://codechef.com/users/rushil0007"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
