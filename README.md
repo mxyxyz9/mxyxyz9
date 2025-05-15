@@ -1,4 +1,4 @@
-<h1 align="center">Heya, I'm Lasya ヽ(°〇°)ﾉ</h1>
+<h1 align="center">Heya, I'm Rushil ヽ(°〇°)ﾉ</h1>
 <p align="center">iOS developer | Problem Solver | Dark Mode Enthusiast ☕</p>
 
 ---
