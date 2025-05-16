@@ -1,9 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Rushil!</h1>
 <h3 align="center">iOS Developer | Python Enthusiast | Competitive Programmer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Dark-mode+SwiftUI+Dev+😎;Python+%2B+CloudKit+%3D+❤️;Coding+%7C+Designing+%7C+Building+fun!" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
