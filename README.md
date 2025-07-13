@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://swift.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift"/></a>
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/87CEEB/mac-os.png" alt="SwiftUI"/></a>
- <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/xcode.png" alt="Xcode"/></a>
+ <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/87CEEB/xcode.png" alt="Xcode"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
   <a href="https://developer.apple.com/icloud/cloudkit/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/cloud.png" alt="CloudKit"/></a>
 </p>
