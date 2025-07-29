@@ -65,7 +65,7 @@
 ## 🧠 Competitive Programming
 
 - 👨‍💻 [CodeChef: rushil0007](https://www.codechef.com/users/rushil0007)  
-  4★ | 1800+ rating | 300+ problems solved  
+  4★ | 1800+ rating |   
 - 🧩 Problem-solver and DSA explorer
 
 ---
