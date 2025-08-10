@@ -46,20 +46,31 @@
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects 🚀
 
-### ⚡ [ZapDash](https://github.com/mxyxyz9/ZapDash)
-> 💡 EV-based quick-commerce platform with real-time logistics & UI  
-> 🛠 Built with **Next.js + Tailwind + Framer Motion**
+### Prompt Enhancer
 
-### 🍱 [SnackShare](https://github.com/mxyxyz9/CommunityFoodService-IOS-Application)
-> 📦 iOS app for geolocation-based food donations  
-> 🛠 Built with **SwiftUI + Supabase + SwiftData**
+- **Description:** A tool to enhance AI prompts.
+- **Tech Stack:** Python
+- **GitHub Link:** [Prompt Enhancer](https://github.com/mxyxyz9/prompt-enhancer)
 
-### 🐶 [PetAlert](https://github.com/mxyxyz9/PetAlert)
-> 🐾 Report & find missing pets with notifications and maps  
-> 🛠 Built in **Swift** using **Firebase Cloud Messaging**
+### ZapDash
 
+- **Description:** A quick-commerce platform with real-time logistics.
+- **Tech Stack:** Next.js, Tailwind, Framer Motion
+- **GitHub Link:** [ZapDash](https://github.com/mxyxyz9/zapdash)
+
+### Race Start Reaction Time
+
+- **Description:** Measure reaction time for racing starts.
+- **Tech Stack:** Swift, SwiftUI
+- **GitHub Link:** [Race Start Reaction Time](https://github.com/mxyxyz9/race-start-reaction-time)
+
+### Community Food Service iOS Application
+
+- **Description:** An app for geolocation-based food donations.
+- **Tech Stack:** Swift, SwiftUI, Firebase
+- **GitHub Link:** [Community Food Service](https://github.com/mxyxyz9/CommunityFoodService-IOS-Application)
 ---
 
 ## 🧠 Competitive Programming
