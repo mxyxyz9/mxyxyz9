@@ -46,32 +46,30 @@
 
 ---
 
-## Featured Projects 🚀
+## 🌟 Featured Projects
 
-### Prompt Enhancer
+| Project | TL;DR | Tech | Repo |
+|---------|-------|------|------|
+| **Prompt Enhancer** | Make AI prompts actually make sense | Python | [🔗](https://github.com/mxyxyz9/prompt-enhancer) |
+| **ZapDash** | EV-commerce so fast it’s basically teleportation | Next.js, Tailwind, Framer | [🔗](https://github.com/mxyxyz9/zapdash) |
+| **Race-Start Reaction Time** | Prove your reflexes are faster than your Wi-Fi | SwiftUI, CoreMotion | [🔗](https://github.com/mxyxyz9/race-start-reaction-time) |
+| **CommunityFoodService** | Uber for leftover biryani | Swift, Firebase | [🔗](https://github.com/mxyxyz9/CommunityFoodService-IOS-Application) |
 
-- **Description:** A tool to enhance AI prompts.
-- **Tech Stack:** Python
-- **GitHub Link:** [Prompt Enhancer](https://github.com/mxyxyz9/prompt-enhancer)
-
-### ZapDash
-
-- **Description:** A quick-commerce platform with real-time logistics.
-- **Tech Stack:** Next.js, Tailwind, Framer Motion
-- **GitHub Link:** [ZapDash](https://github.com/mxyxyz9/zapdash)
-
-### Race Start Reaction Time
-
-- **Description:** Measure reaction time for racing starts.
-- **Tech Stack:** Swift, SwiftUI
-- **GitHub Link:** [Race Start Reaction Time](https://github.com/mxyxyz9/race-start-reaction-time)
-
-### Community Food Service iOS Application
-
-- **Description:** An app for geolocation-based food donations.
-- **Tech Stack:** Swift, SwiftUI, Firebase
-- **GitHub Link:** [Community Food Service](https://github.com/mxyxyz9/CommunityFoodService-IOS-Application)
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mxyxyz9&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxyxyz9&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top langs" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxyxyz9&theme=dark&hide_border=true&background=FFFFFF00" alt="Streak stats">
+</div>
+
+---
+
 
 ## 🧠 Competitive Programming
 
@@ -81,18 +79,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxyxyz9&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxyxyz9&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxyxyz9&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ## 🐍 Snake Game – Contributions Tracker
 
