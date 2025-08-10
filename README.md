@@ -52,7 +52,7 @@
 |---------|-------|------|------|
 | **Prompt Enhancer** | Make AI prompts actually make sense | Python | [🔗](https://github.com/mxyxyz9/prompt-enhancer) |
 | **ZapDash** | EV-commerce so fast it’s basically teleportation | Next.js, Tailwind, Framer | [🔗](https://github.com/mxyxyz9/zapdash) |
-| **Race-Start Reaction Time** | Prove your reflexes are faster than your Wi-Fi | SwiftUI, CoreMotion | [🔗](https://github.com/mxyxyz9/race-start-reaction-time) |
+| **Race-Start Reaction Time** | Prove your reflexes are faster than your Wi-Fi | SNext.js, Tailwind, Framer | [🔗](https://github.com/mxyxyz9/race-start-reaction-time) |
 | **CommunityFoodService** | Uber for leftover biryani | Swift, Firebase | [🔗](https://github.com/mxyxyz9/CommunityFoodService-IOS-Application) |
 
 ---
