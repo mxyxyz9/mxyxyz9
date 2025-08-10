@@ -100,7 +100,7 @@
   [<img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/>](https://medium.com/@rushil)
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 ---
 
 > ✨ *“Building things that matter — always in dark mode.”* make it way more modern looking and fllow best practices by using minimal icon-based design and minimal glassmorphism okay with using HTML/CSS inside Markdown Timeline/experience charts, contribution heatmaps and animated carousels
