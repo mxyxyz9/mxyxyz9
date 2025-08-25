@@ -94,7 +94,8 @@
   
   [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://linkedin.com/in/pala-rushil-77679925b)
   [<img src="https://img.icons8.com/color/48/000000/apple-app-store--v3.png"/>](https://apps.apple.com/developer/rushil-pala/id123456789)
-  [<img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/>](https://medium.com/@rushil)
+[<img src="https://img.icons8.com/color/48/000000/codechef.png"/>](https://www.codechef.com/users/rushil0007)
+
 
 </div>
 </div>
